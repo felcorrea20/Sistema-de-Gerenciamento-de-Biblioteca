@@ -1,6 +1,6 @@
-# Sistema-de-Gerenciamento-de-Biblioteca
+# Sistema de Gerenciamento de Biblioteca
 Sistema de Biblioteca em Java: 
-- Um sistema simples para gerenciar livros e empréstimos, desenvolvido em Java.  
+- Um sistema simples para gerenciar livros e empréstimos.  
 
 Funcionalidades: 
 - Cadastro de livros (título, autor, ano)
